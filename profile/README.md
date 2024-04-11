@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+---
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+한세사이버보안고등학교 전공 수업시간에 활용하기 위해 시작한 프로젝트.
+간단하게 파일을 업로드하고 공유할 할 수 있습니다 :)
